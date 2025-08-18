@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XvnBA65lSTWvNsCO/raw", true))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/gagscript-server/b8c83af700165e55d4e906798800154c/raw/c8822d652e83806254b924de5709b6f74a93f5fe/PetEsp.lua"))()
